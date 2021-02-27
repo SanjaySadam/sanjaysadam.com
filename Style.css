@@ -1,0 +1,11 @@
+
+li {
+  display: inline-flex;
+  background-color: gray;
+  border-radius: 5px;
+  padding: 3px 8px;
+  font-family: sans-serif;
+  font-size: 20px
+  
+}
+
